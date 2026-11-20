@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a D-Latch circuit with a data input and a a latch input. There are two outputs Q and Qbar. The D-Latch acts a an elementary memory circuit.
+This is a 2 bit full adder. It adds two, 2-bit numbers
 
 ## How to test
 
@@ -17,4 +17,4 @@ Test by applying different binary inputs and record the outputs
 
 ## External hardware
 
-FPGA, OR can be tested wit discrete digital logic integrated circuits, dip switch, LEDS
+FPGA
