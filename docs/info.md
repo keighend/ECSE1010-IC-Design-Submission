@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a D-Latch circuit with a data input and a a latch input. There are two outputs Q and Qbar. The D-Latch acts a an elementary memory circuit.
 
 ## How to test
 
-Explain how to use your project
+Test by applying different binary inputs and record the outputs
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+FPGA, OR can be tested wit discrete digital logic integrated circuits, dip switch, LEDS
